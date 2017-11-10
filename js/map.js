@@ -1,6 +1,6 @@
 (function(param){
-    console.log(ausState);
-    geoState = ausState;
+    //console.log(ausState);
+    geoState = statesData;
     //console.log(xiaoxi)
 
       var map = L.map('map').setView([-37.8186804, 144.9479796], 12); 
@@ -24,7 +24,7 @@
     
 
     
-})(ausState);
+})(statesData);
 
 
 //var myFn = function(param){

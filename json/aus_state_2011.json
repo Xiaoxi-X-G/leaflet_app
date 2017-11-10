@@ -1,4 +1,4 @@
-var ausState = {
+var statesData = {
   "type": "FeatureCollection",
   "features": [
     {
